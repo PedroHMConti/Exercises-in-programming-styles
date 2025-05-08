@@ -1,0 +1,1 @@
+Estilo de programação antigo e ultrapassado .Foi nescessário achar diversas maneiras de contornar o problema devido as limitações de memória impostas,uso de memória secundária dado que o limite da memoria primária era de 1024 caracteres.
